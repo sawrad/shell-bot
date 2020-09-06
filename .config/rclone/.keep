@@ -1,0 +1,4 @@
+[Kingston]
+type = drive
+scope = drive
+token = {"access_token":"ya29.a0AfH6SMBZLr4f-BYl9HGhilB0417nDgDUaoLslWYERutXfeQVvfC5CYwpm9nnyBdX6MEXpzxUh-j10DsJkcloHDFaKpUlDSpR19MvR7858VyTeNFBTxqwDksrfoX86jTMdvt7MzX_4BoSYBop567LPVFT47yxZOLL_Ik","token_type":"Bearer","refresh_token":"1//0gVUzaIU-oiDCCgYIARAAGBASNwF-L9IrUGUmtaU9M11ycKrny7aB_VpAMKL22Yd2Y4RgUZteeIVUAsfYIpsJw5uipVu_pTXwHJQ","expiry":"2020-09-06T15:05:17.176328115Z"}
